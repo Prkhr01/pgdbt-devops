@@ -1,0 +1,4 @@
+Hi, 
+this is PGDBT course.
+Subject Name SPM.
+Teaching git and github to pull and push the code
